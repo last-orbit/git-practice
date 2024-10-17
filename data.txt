@@ -1,0 +1,3 @@
+Name : 'Robert Ortiz'
+age : 25
+favorite color : 'Blue'
